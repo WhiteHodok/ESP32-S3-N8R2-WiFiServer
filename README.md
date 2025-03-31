@@ -1,6 +1,6 @@
 # ESP32 Wi-Fi AP + Web Server
 
-![ESP32](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ESP32-WROVER.jpg/320px-ESP32-WROVER.jpg)
+![image](https://github.com/user-attachments/assets/304696dd-a527-4c9a-a8b6-bd2fcb11e075)
 
 Этот проект демонстрирует использование ESP32 в режиме точки доступа (Wi-Fi AP) и веб-сервера для приема и отображения сообщений через веб-интерфейс.
 
